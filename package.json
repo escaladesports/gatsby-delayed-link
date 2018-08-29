@@ -1,13 +1,13 @@
 {
   "name": "gatsby-delayed-link",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "keywords": [
     "gatsby",
     "delayed",
     "link"
   ],
   "main": "dist/index.js",
-  "author": "Kennedy Rose <krose@escaladesports.com>",
+  "author": "Matt Suhay <msuhay@escaladesports.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/escaladesports/gatsby-delayed-link.git"
